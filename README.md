@@ -2,9 +2,6 @@
 My goal was to build a Chat app that allows users to create room and do real-time communication and send emojis. 
 This app is build using web sockets that Socket.io uses internally.
 
-# The app is live here - 
-[Click here to see the live demo](https://5f8db8ab81543495e98f17cd--gallant-archimedes-a7086a.netlify.app)
-
 <img src="./home-page.png" alt="the screenshot of the app large screen"/>
 <img src="./chat-page.png" alt="the screenshot of the app large screen"/>
 <img src="./home-page-mobile.png" alt="the screenshot of the app large screen"/> <img src="./chat-page-mobile.png" alt="the screenshot of the app large screen"/>
